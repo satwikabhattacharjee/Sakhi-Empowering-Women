@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762325350503",
+    "firebase_url": "https://sakhi-c3310.firebaseio.com",
+    "project_id": "sakhi-c3310",
+    "storage_bucket": "sakhi-c3310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762325350503:android:02fc00f6388a3f2d80fcc2",
+        "android_client_info": {
+          "package_name": "com.example.android.audiocapture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762325350503-784bhfp43gth72ju8jf3duaan260rr4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.audiocapture",
+            "certificate_hash": "63097c04c55bbe2eea698ea98b3fe885dcec323e"
+          }
+        },
+        {
+          "client_id": "762325350503-600haigv5i1hkuacv9u0aeekqth2nij1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZlAsithRktzC5_uafChUqFDLesk_WkEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762325350503-600haigv5i1hkuacv9u0aeekqth2nij1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
