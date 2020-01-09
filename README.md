@@ -1,4 +1,4 @@
-                                                 Sakhi-Empowering-Women
+                                                 Sakhi: Empowering Women
  
 DOMAIN: Social Issue
 
